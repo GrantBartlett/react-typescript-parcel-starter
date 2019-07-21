@@ -4,7 +4,7 @@ A very simple starter project for using [React](https://reactjs.org/), [TypeScri
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.  Alternatively, you can follow the [tutorial on Dev.to](https://dev.to/grant_bartlett/getting-started-with-react-typescript-and-parcel-c9l)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.  Alternatively, you can follow the [tutorial on Dev.to](https://dev.to/grant_bartlett/getting-started-with-react-typescript-and-parcel-1ocb)
 
 
 ### Installing
